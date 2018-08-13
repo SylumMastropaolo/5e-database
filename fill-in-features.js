@@ -13,7 +13,7 @@ fill_in_features(data_type, class_name);
 
 
 function getLevelFeaturesFromAPI(class_name, level, printLength) {
-		var url = 'http://www.dnd5eapi.co/api/features/' + class_name + '/level/' + (level);
+		var url = 'localhost:3000/api/features/' + class_name + '/level/' + (level);
         // console.log(url);
 
 		http.get(url, (res) => {

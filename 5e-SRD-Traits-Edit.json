@@ -1,0 +1,235 @@
+[
+    {
+        "name": "Darkvision (Dwarf)",
+        "url": "localhost:3000/api/traits/1"
+    },
+    {
+        "name": "Dwarven Resilience",
+        "url": "localhost:3000/api/traits/2"
+    },
+    {
+        "name": "Stonecunning",
+        "url": "localhost:3000/api/traits/3"
+    },
+    {
+        "url": "localhost:3000/api/traits/4",
+        "name": "Dwarven Toughness"
+    },
+    {
+        "name": "Darkvision (Elf)",
+        "url": "localhost:3000/api/traits/5"
+    },
+    {
+        "name": "Fey Ancestry",
+        "url": "localhost:3000/api/traits/6"
+    },
+    {
+        "name": "Trance",
+        "url": "localhost:3000/api/traits/7"
+    },
+    {
+        "desc": "This trait is not listed in Races or Subraces",
+        "name": "Error",
+        "url": "localhost:3000/api/traits/8"
+    },
+    {
+        "url": "localhost:3000/api/traits/9",
+        "name": "High Elf Cantrip: Light"
+    },
+    {
+        "url": "localhost:3000/api/traits/10",
+        "name": "High Elf Cantrip: Mage Hand"
+    },
+    {
+        "url": "localhost:3000/api/traits/11",
+        "name": "High Elf Cantrip: Mending"
+    },
+    {
+        "url": "localhost:3000/api/traits/12",
+        "name": "High Elf Cantrip: Message"
+    },
+    {
+        "url": "localhost:3000/api/traits/13",
+        "name": "High Elf Cantrip: Minor Illusion"
+    },
+    {
+        "url": "localhost:3000/api/traits/14",
+        "name": "High Elf Cantrip: Acid Splash"
+    },
+    {
+        "url": "localhost:3000/api/traits/15",
+        "name": "High Elf Cantrip: Prestidigitation"
+    },
+    {
+        "url": "localhost:3000/api/traits/16",
+        "name": "High Elf Cantrip: Ray of Frost"
+    },
+    {
+        "url": "localhost:3000/api/traits/17",
+        "name": "High Elf Cantrip: Shocking Grasp"
+    },
+    {
+        "url": "localhost:3000/api/traits/18",
+        "name": "High Elf Cantrip: True Strike"
+    },
+    {
+        "url": "localhost:3000/api/traits/19",
+        "name": "High Elf Cantrip: Chill Touch"
+    },
+    {
+        "url": "localhost:3000/api/traits/20",
+        "name": "High Elf Cantrip: Dancing Lights"
+    },
+    {
+        "name": "Brave",
+        "url": "localhost:3000/api/traits/21"
+    },
+    {
+        "name": "Halfling Nimbleness",
+        "url": "localhost:3000/api/traits/22"
+    },
+    {
+        "name": "Lucky",
+        "url": "localhost:3000/api/traits/23"
+    },
+    {
+        "name": "Draconic Anscestry",
+        "url": "localhost:3000/api/traits/24"
+    },
+    {
+        "name": "Breath Weapon",
+        "url": "localhost:3000/api/traits/25"
+    },
+    {
+        "name": "Breath Weapon (Black)",
+        "url": "localhost:3000/api/traits/26"					
+    },
+    {
+        "name": "Breath Weapon (Blue)",
+        "url": "localhost:3000/api/traits/27"					
+    },
+    {
+        "name": "Breath Weapon (Brass)",
+        "url": "localhost:3000/api/traits/28"					
+    },
+    {
+        "name": "Breath Weapon (Bronze)",
+        "url": "localhost:3000/api/traits/29"					
+    },
+    {
+        "name": "Breath Weapon (Copper)",
+        "url": "localhost:3000/api/traits/30"					
+    },
+    {
+        "name": "Breath Weapon (Gold)",
+        "url": "localhost:3000/api/traits/31"					
+    },
+    {
+        "name": "Breath Weapon (Green)",
+        "url": "localhost:3000/api/traits/32"					
+    },
+    {
+        "name": "Breath Weapon (Red)",
+        "url": "localhost:3000/api/traits/33"					
+    },
+    {
+        "name": "Breath Weapon (Silver)",
+        "url": "localhost:3000/api/traits/34"					
+    },
+    {
+        "name": "Breath Weapon (White)",
+        "url": "localhost:3000/api/traits/35"					
+    },
+    {
+        "name": "Damage Resistance (Dragonborn)",
+        "url": "localhost:3000/api/traits/36"
+    },
+    {
+        "url": "localhost:3000/api/traits/37",
+        "name": "Fleet of Foot"
+    },
+    {
+        "url": "localhost:3000/api/traits/38",
+        "name": "Mask of the Wild"
+    },
+    {
+        "url": "localhost:3000/api/traits/39",
+        "name": "Superior Darkvision"
+    },
+    {
+        "url": "localhost:3000/api/traits/40",
+        "name": "Sunlight Sensitivity"
+    },
+    {
+        "url": "localhost:3000/api/traits/41",
+        "name": "Drow Magic"
+    },
+    {
+        "name": "Darkvision (Gnome)",
+        "url": "localhost:3000/api/traits/42"
+    },
+    {
+        "name": "Gnome Cunning",
+        "url": "localhost:3000/api/traits/43"
+    },
+    {
+        "desc": "This trait is not listed in Races or Subraces",
+        "name": "Error",
+        "url": "localhost:3000/api/traits/44"
+    },
+    {
+        "desc": "This trait is not listed in Races or Subraces",
+        "name": "Error",
+        "url": "localhost:3000/api/traits/45"
+    },
+    {
+        "desc": "This trait is not listed in Races or Subraces",
+        "name": "Error",
+        "url": "localhost:3000/api/traits/46"
+    },
+    {
+        "desc": "This trait is not listed in Races or Subraces",
+        "name": "Error",
+        "url": "localhost:3000/api/traits/47"
+    },
+    {
+        "name": "Darkvision (Half-Elf)",
+        "url": "localhost:3000/api/traits/48"
+    },
+    {
+        "name": "Fey Ancestry",
+        "url": "localhost:3000/api/traits/49"
+    },
+    {
+        "name": "Skill Versatility",
+        "url": "localhost:3000/api/traits/50"
+    },
+    {
+        "name": "Darkvision (Half-Orc)",
+        "url": "localhost:3000/api/traits/51"
+    },
+    {
+        "name": "Savage Attacks",
+        "url": "localhost:3000/api/traits/52"
+    },
+    {
+        "name": "Restless Endurance",
+        "url": "localhost:3000/api/traits/53"
+    },
+    {
+        "name": "Darkvision (Tiefling)",
+        "url": "localhost:3000/api/traits/54"
+    },
+    {
+        "name": "Hellish Resistance",
+        "url": "localhost:3000/api/traits/55"
+    },
+    {
+        "name": "Infernal Legacy",
+        "url": "localhost:3000/api/traits/56"
+    },
+    {
+        "url": "localhost:3000/api/traits/99",
+        "name": "Naturally Stealthy"
+    }
+]

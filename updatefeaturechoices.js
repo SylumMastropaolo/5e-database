@@ -9,7 +9,7 @@ fill_in_features();
 
 
 function getFeaturesFromAPI(callback) {
-		var url = 'http://www.dnd5eapi.co/api/features/';
+		var url = 'localhost:3000/api/features/';
         // console.log(url);
 
 		http.get(url, (res) => {

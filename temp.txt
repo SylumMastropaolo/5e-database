@@ -1,0 +1,1 @@
+mongoimport --db dnd5eapi --collection weapon-properties --file ~/Webdev/5e-database/5e-SRD-Weapon-Properties.json --jsonArray
